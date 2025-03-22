@@ -27,10 +27,34 @@ ShopEasy, an online retail business, is experiencing declining customer engageme
 
 ---
 
-## 🧠 SQL Model Diagram
-- **ER Diagram:** Shows tables, relationships, and key columns.
-- **SQL Workflow Flowchart:** Visualizes data flow from raw tables → cleaning → analysis → Power BI visualization.
-- **Data Pipeline Overview:** SQL (data extraction) → Python (analysis) → Power BI (dashboard)
+## 🧠 SQL Model View
+- **ER Diagram:** Represents tables, key columns, and relationships.  
+![SQL Model View]((https://github.com/yash-khobragade/Marketing-Analytics-Project-ShopEasy/blob/main/Model%20View.png))
+
+- **Data Flow:** SQL (data extraction) → Python (analysis) → Power BI (dashboard).  
+
+---
+
+## 🖥️ Power BI Dashboards
+Here are some key Power BI dashboards used in this project:
+
+### 1️⃣ **Conversion Rates Dashboard**  
+![Conversion Rates Dashboard](https://github.com/yash-khobragade/Marketing-Analytics-Project-ShopEasy/blob/main/Conversion%20Details.png)
+
+### 2️⃣ **Engagement Trends Dashboard**  
+![Customer Review Details](https://github.com/yash-khobragade/Marketing-Analytics-Project-ShopEasy/blob/main/Customer%20Review%20Details.png)
+
+### 3️⃣ **Customer Feedback Sentiment Dashboard**  
+![Social Media Details Dashboard](https://github.com/yash-khobragade/Marketing-Analytics-Project-ShopEasy/blob/main/Social%20Media%20Details.png)
+
+### 4️⃣ **Final Overview Dashboard**  
+![Overview Dashboard](https://github.com/yash-khobragade/Marketing-Analytics-Project-ShopEasy/blob/main/Owerview.png)
+
+---
+
+## 🔗 Project Files  
+- 📌 **[PPT](https://github.com/yash-khobragade/Marketing-Analytics-Project-ShopEasy/blob/main/Marketing%20Analytics%20Project%20%E2%80%94%20ShopEasy.pptx)**  
+- 📌 **[Power BI File](https://github.com/yash-khobragade/Marketing-Analytics-Project-ShopEasy/blob/main/Marketing%20Analytics.pbix)**  
 
 ---
 
